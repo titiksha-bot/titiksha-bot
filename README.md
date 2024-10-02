@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @titiksha-bot
-- 👀 I’m interested in full stack dev, web dev, prompt to image using AI
-- 🌱 I’m currently learning full stack dev.
+- 👋 Hi, I’m @titiksha
+- 👀 I’m interested a Web Developer Using Django Framework, a competitive programmer and a physics enthusiast.
+- 🌱 I’m currently Working on projects of Django to Strengthen my CV.
 - 💞️ I’m looking to collaborate on future projects.
 - 📫 contact me at titiksham887@gmail.com
 
